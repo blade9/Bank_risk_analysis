@@ -1,4 +1,4 @@
-# Bank_risk_analysis
+# Bank Risk Analysis
 Project Goal: Calculate how high the US Treasury Curve can rise 3 months from now at 67% and 96% confidence levels.
 
 ### Background
